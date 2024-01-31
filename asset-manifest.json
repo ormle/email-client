@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.38ce5178.css",
-    "main.js": "/static/js/main.07d2e8b7.js",
-    "static/js/787.622a49d0.chunk.js": "/static/js/787.622a49d0.chunk.js",
-    "index.html": "/index.html",
-    "main.38ce5178.css.map": "/static/css/main.38ce5178.css.map",
-    "main.07d2e8b7.js.map": "/static/js/main.07d2e8b7.js.map",
-    "787.622a49d0.chunk.js.map": "/static/js/787.622a49d0.chunk.js.map"
+    "main.css": "/email-client/static/css/main.38ce5178.css",
+    "main.js": "/email-client/static/js/main.241dcfaa.js",
+    "static/js/787.622a49d0.chunk.js": "/email-client/static/js/787.622a49d0.chunk.js",
+    "index.html": "/email-client/index.html",
+    "main.38ce5178.css.map": "/email-client/static/css/main.38ce5178.css.map",
+    "main.241dcfaa.js.map": "/email-client/static/js/main.241dcfaa.js.map",
+    "787.622a49d0.chunk.js.map": "/email-client/static/js/787.622a49d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38ce5178.css",
-    "static/js/main.07d2e8b7.js"
+    "static/js/main.241dcfaa.js"
   ]
 }
