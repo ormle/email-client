@@ -1,7 +1,7 @@
 {
   "name": "email-client",
   "version": "0.1.0",
-  "home": "https://github.com/ormle/email-client",
+  "homepage": "https://ormle.github.io/email-client",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
