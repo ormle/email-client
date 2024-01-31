@@ -1,0 +1,8 @@
+.emailList {
+    width: 20vw;
+    height: 44vw;
+    overflow-y: scroll;
+    margin: 0 auto;
+    display: column;   
+    border: 2px solid #000000;
+}

@@ -1,0 +1,28 @@
+.email-container {
+    display: flex;
+    flex-direction:column;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 16px;
+    cursor: pointer;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-in-out;
+}
+
+.email-container:hover{
+    transform: scale(1.05);
+    
+}
+
+/*.email-container:visited{
+   
+}*/
+
+.email-container:active{
+    transform: scale(1.05);
+    
+}
+
+/*background-color: #D7F5FE;
+background-color: #D7F5FE;
+background-color: #9CE7FC;*/

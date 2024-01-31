@@ -1,0 +1,20 @@
+.emaildisplay-container {
+    width: 72vw;
+    height: 40vw;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: #FFFFFF;
+    border: 5px solid #000000;
+    padding: 16px;
+    cursor: default;
+    margin-top: 6vw;
+    margin-left: 2vw;
+}
+
+hr {
+    height: 5px;
+    width: 72vw;
+    background-color: #000000;
+
+}
